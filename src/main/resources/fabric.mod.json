@@ -14,14 +14,6 @@
 	"license": "MIT",
 	"icon": "assets/carpetbotrelog/icon.png",
 	"environment": "*",
-	"entrypoints": {
-		"main": [
-			"net.mat0u5.carpetbotrelog.Main"
-		],
-		"client": [
-			"net.mat0u5.carpetbotrelog.MainClient"
-		]
-	},
 	"mixins": [
 		"carpetbotrelog.mixins.json"
 	],
