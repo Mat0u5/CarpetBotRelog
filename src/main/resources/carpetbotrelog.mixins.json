@@ -1,9 +1,9 @@
 {
 	"required": true,
 	"package": "net.mat0u5.carpetbotrelog.mixin",
-	"compatibilityLevel": "JAVA_21",
+	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"ExampleMixin"
+		"FakePlayerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
