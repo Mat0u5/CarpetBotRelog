@@ -1,0 +1,1 @@
+Makes the bots from carpet mod relog upon death instead of disconnecting.
