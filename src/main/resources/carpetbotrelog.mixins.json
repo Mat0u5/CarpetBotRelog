@@ -3,9 +3,7 @@
 	"package": "net.mat0u5.carpetbotrelog.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"FakePlayerMixin",
-		"MinecraftServerMixin",
-		"PlayerManagerMixin"
+		"FakePlayerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

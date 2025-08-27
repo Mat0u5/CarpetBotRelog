@@ -20,7 +20,8 @@
 	"depends": {
 		"fabricloader": ">=0.14.21",
 		"minecraft": "${targetVersion}",
-		"java": ">=8"
+		"java": ">=8",
+		"carpet": "*"
 	},
 	"suggests": {
 		"another-mod": "*"
